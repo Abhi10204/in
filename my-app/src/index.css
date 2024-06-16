@@ -1,0 +1,22 @@
+.watch {
+
+    color: darkred;
+    display: inline;
+    background-color: blanchedalmond;
+    margin-left: 40%;
+    margin-top: 50%;
+
+}
+
+.start {
+    margin-top: 10px;
+    margin-left: 45%;
+    background-color: black;
+    color: aqua;
+}
+
+.stop {
+    margin-left: 2%;
+    background-color: black;
+    color: aqua;
+}
